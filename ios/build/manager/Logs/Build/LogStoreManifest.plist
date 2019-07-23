@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>2D9CDCC0-3CDD-44BD-A892-01D3DD719968</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2D9CDCC0-3CDD-44BD-A892-01D3DD719968.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>manager project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>manager</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace manager with scheme manager and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>585551545.09626806</real>
+			<key>timeStoppedRecording</key>
+			<real>585551546.22155499</real>
+			<key>title</key>
+			<string>Building workspace manager with scheme manager and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>2D9CDCC0-3CDD-44BD-A892-01D3DD719968</string>
+		</dict>
+		<key>9C58F659-F3A0-4B0E-9B93-7C9B3E78E0F7</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9C58F659-F3A0-4B0E-9B93-7C9B3E78E0F7.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>manager project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>manager</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace manager with scheme manager and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>585407333.94379401</real>
+			<key>timeStoppedRecording</key>
+			<real>585407335.64696205</real>
+			<key>title</key>
+			<string>Building workspace manager with scheme manager and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>9C58F659-F3A0-4B0E-9B93-7C9B3E78E0F7</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
